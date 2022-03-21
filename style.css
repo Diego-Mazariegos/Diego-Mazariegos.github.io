@@ -1,0 +1,11 @@
+.imagen{
+    background: url("https://i0.wp.com/www.picgifs.com/wallpapers/wallpapers/stars/wallpapers-stars-782404.gif") ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+}
+.border{
+    border-radius: 100%;
+    width: 230px;
+}   
