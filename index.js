@@ -17,7 +17,7 @@ function mostrarPersonaje(results2){
         contador++
         columnas += `
         <div class="col-md-3"> 
-            <div class="card mb-5 bg-danger" style="width: 17rem; height: 28rem; align-items: center; border: 3px black solid;  outline: 4px solid orange;">
+            <div class="card mb-5 bg-info" style="width: 17rem; height: 28rem; align-items: center; border: 3px aqua solid;  outline: 4px solid aquamarine;">
                 <img pt-5 src="${p.image}" class="card-img-top border " alt="...">
                 <div class="card-body" style="color: yellow;">
                     <h5 class="card-title">Nombre: ${p.name}</h5>
