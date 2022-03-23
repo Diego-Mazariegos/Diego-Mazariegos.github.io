@@ -1,5 +1,5 @@
 let API = "https://rickandmortyapi.com/api/character/"
-const contenedor = document.querySelector('.container');
+const contenedor = document.querySelector('.contenedor');
 const boton = document.getElementById('boton');
 boton.addEventListener('click', mostrarPersonajes)
 
