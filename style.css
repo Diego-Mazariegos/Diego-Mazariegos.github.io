@@ -9,3 +9,7 @@
     border-radius: 100%;
     width: 230px;
 }   
+#inputBuscar{
+    background-color: transparent;
+    box-shadow:  3px 3px 3px white;
+}
