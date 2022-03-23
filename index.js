@@ -16,7 +16,7 @@ function mostrarPersonaje(results2){
     results2.forEach((p) => {
         contador++
         columnas += `
-        <div class="col-md-3"> 
+        <div class="col-sm-6  col-md-3 col-12 col-lg-3 col-xl-3"> 
             <div class="card mb-5 bg-info" style="width: 17rem; height: 28rem; align-items: center; border: 3px aqua solid;  outline: 4px solid aquamarine;">
                 <img pt-5 src="${p.image}" class="card-img-top border " alt="...">
                 <div class="card-body" style="color: yellow;">
